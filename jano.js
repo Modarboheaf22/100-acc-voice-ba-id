@@ -119,7 +119,7 @@ jano3.on("ready", () => {
 });
 ///////////////////
 jano4.on("ready", () => {
-  var join = jano4.channels.get(""); /// id voice
+  var join = jano4.channels.get("904486975237664773"); /// id voice
   if (join) join.join();
 });
 ///////////////////
@@ -1977,13 +1977,15 @@ jano67.login("");
 jano68.login("");
 jano69.login("");
 jano70.login("");
-jano71.login("");
-jano72.login("");
-jano73.login("");
-jano74.login("");
-jano75.login("");
-jano76.login("");
-jano77.login("");
+jano71.login("OTA2MTQ5OTI2NDQ5MZE50T¢2.YYUgSA.
+8RallmTDtz4lx1SmOoU2NLZCqbU");
+jano72.login("OTA2MTQ4NDI2Njc5NDUxNjQ4.YYUbwg.FnqlA65n6lVSmE5l50pN2DDD1cA");
+jano73.login("OTA2MTQ3NjA1ODMzMjAzNzMz.YYUavQ.457DwECiOgzTmeiDVEeDbZeWl-g");
+jano74.login("OTA2MTOXNDcyNjUzNDU1Mzcw.YYUZFA.TZZAxnlSrNMyFhZVWIJGeToxss
+k");
+jano75.login("OTA1OTUxNjI2NTA5MDI5NDA4.YYUZXQ.xodzlopfReYhtOz_IktZncBPEKA");
+jano76.login("OTA2MTUwMjM3ODEzNDg5NzI0.YYUc6Q.L_vDrG9cmNCtoFeylcvVUwdSr84");
+jano77.login("OTA2MTUxNzMyNTM3NjIyNTI4.YYUecw.ebs833DD48Ez9iwUG2dWm87lJI8");
 jano78.login("");
 jano79.login("");
 jano80.login("");
